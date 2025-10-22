@@ -1,4 +1,4 @@
-'use client'
+'use client' 
 import { DAppKitProvider } from '@vechain/dapp-kit-react';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
  export default function Providers({ children }: { children: React.ReactNode }) {
