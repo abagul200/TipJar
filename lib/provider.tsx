@@ -14,3 +14,4 @@ import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
         </QueryClientProvider>
     );
 }
+ 
