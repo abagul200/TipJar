@@ -1,6 +1,6 @@
 export const CONTRACT_ADDRESS="0x5873d22c48ecbd4e7d5524c79428a557df0a7b8a"
 export const CONTRACT_ABI=[
-  {
+  { 
     ""anonymous"": false,
     ""inputs"": [
       {
