@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import {WalletButton} from "@vechain/dapp-kit-react"
 
-
+ 
 const App: React.FC = () => {
   // Local states just to capture input values
   const [tipAmount, setTipAmount] = useState("");
