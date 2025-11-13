@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0; 
-  
+   
 contract TipJar {
     address payable public owner;
     uint256 public totalDonations;
