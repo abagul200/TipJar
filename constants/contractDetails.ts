@@ -3,7 +3,7 @@ export const CONTRACT_ABI=[
   {  
     ""anonymous"": false,
     ""inputs"": [
-      {
+      { 
         ""indexed"": false,
         ""internalType"": ""address"",
         ""name"": ""winner"",
